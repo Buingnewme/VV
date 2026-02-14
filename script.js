@@ -60,7 +60,7 @@ if (yesBtn.style.position !== "fixed") {
 // YES is clicked
 
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee! /n TQ ining🍅";
+    title.textContent = "Yippeeee!\nTQ ining🍅";
 
     catImg.src = "cat_dance.gif";
 
@@ -71,4 +71,5 @@ yesBtn.addEventListener("click", () => {
     finalText.style.display = "block";
 
 });
+
 
